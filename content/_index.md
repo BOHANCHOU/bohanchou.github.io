@@ -54,14 +54,6 @@ sections:
       show_read_time: false
       show_read_more: true
 
-  - block: resume-experience
-    id: experience
-    content:
-      username: me
-    design:
-      date_format: 'January 2006'
-      is_education_first: true
-
   - block: collection
     id: publications
     content:
