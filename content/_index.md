@@ -1,6 +1,6 @@
 ---
-title: ''
-summary: 'Academic homepage of Bohan Zhou, a PhD candidate in Ecology at Anhui University.'
+title: 'Bohan Zhou | Aquatic Ecology at Anhui University'
+summary: 'Academic homepage of Bohan Zhou (周博涵), a PhD candidate in Ecology at Anhui University, studying aquatic ecology, zooplankton community ecology, water diversion, and ecological networks.'
 date: 2026-09-20
 type: landing
 
