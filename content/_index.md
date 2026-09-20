@@ -38,6 +38,23 @@ sections:
       columns: '1'
 
   - block: collection
+    id: projects
+    content:
+      title: Selected Projects
+      text: ''
+      filters:
+        folders:
+          - projects
+        featured_only: true
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
+      show_date: false
+      show_read_time: false
+      show_read_more: true
+
+  - block: collection
     id: publications
     content:
       title: Selected Publications
