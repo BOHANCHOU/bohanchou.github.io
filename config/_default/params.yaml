@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Aquatic Ecology | Zooplankton | Community Assembly | Water Diversion | Ecological Networks"
     # Site meta description for search engines and social sharing
-    description: "Academic homepage of Bohan Zhou, a PhD candidate in Ecology studying aquatic communities, zooplankton, water diversion, and ecological network stability."
+    description: "Academic homepage of Bohan Zhou (周博涵), a PhD candidate in Ecology at Anhui University studying aquatic ecology, zooplankton community ecology, water diversion, community assembly, and ecological network stability."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
@@ -127,7 +127,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Bohan Zhou | Aquatic Ecology | Anhui University"
     # For local_business identity type only
     location:
       address:
