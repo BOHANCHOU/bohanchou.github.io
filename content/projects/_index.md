@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-draft: true
+draft: false
 date: 2024-05-19
 type: landing
 
@@ -9,7 +9,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Selected research and commissioned ecological survey projects.
       filters:
         folders:
           - projects
