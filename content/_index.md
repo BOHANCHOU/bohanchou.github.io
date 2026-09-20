@@ -33,11 +33,7 @@ sections:
 
         My current work focuses on the Yangtze-to-Huaihe Water Diversion Project and lakes in the middle and lower reaches of the Yangtze River. I integrate multivariate ordination, null models, beta-diversity decomposition, random forests, generalized additive models, structural equation modeling, and ecological network analysis to investigate interactions among hydrological processes, environmental conditions, and aquatic communities. I am also interested in environmental DNA (eDNA), macroecology, and AI-assisted aquatic ecosystem monitoring and ecological forecasting.
 
-        ### 中文简介
-
-        周博涵，安徽大学资源与环境工程学院生态学博士研究生，主要从事水生生态学、浮游动物群落生态学及调水工程生态效应研究。研究重点关注大型跨流域调水工程、水文扰动和环境变化背景下浮游动物群落结构、生物多样性、群落构建机制及生态网络稳定性的响应规律。
-
-        目前主要围绕引江济淮工程及长江中下游湖泊开展研究，综合运用群落排序、零模型、β多样性分解、随机森林、广义加性模型、结构方程模型和生态网络分析等方法，解析水环境、水动力过程与水生生物群落之间的耦合关系。同时关注环境 DNA（eDNA）、宏观生态学及人工智能辅助方法在水生生态监测和生态预测中的应用。
+        Alongside my research on aquatic community ecology, I participate in biodiversity and ecological field surveys across freshwater and wetland ecosystems. These activities include plant taxonomy and vegetation surveys, plankton community surveys, and water-quality monitoring, providing field-based data for biodiversity assessment, ecosystem condition evaluation, and ecological monitoring.
     design:
       columns: '1'
 
