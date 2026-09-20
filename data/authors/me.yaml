@@ -52,10 +52,12 @@ education:
     end: 2022-06-30
 
 experience:
-  - role: Green Logistics Intern
+  - role: Intern
     org: China Resources Beer (CR Snow), Nanjing
     start: 2019-07-01
     end: 2019-08-31
+    summary: |
+      Gained practical experience in data organization and the use of Excel functions through logistics record management.
 
   - role: PhD Candidate in Ecology
     org: School of Resources and Environmental Engineering, Anhui University
